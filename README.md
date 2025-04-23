@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 I am a beginner python , Java 
-
+<meta name="google-site-verification" content="4sWyYgm6xj7JBVJ2tgOatggLinz6YrN0_R91afOPZbo" />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thejasbj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@thejas_gowda_11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thejas-bj-233b94259) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Thejas BJ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thejasbj999@gmail.com) 
