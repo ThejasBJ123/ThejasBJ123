@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Thejas BJ
 
-I am a beginner python , full stack web Development 
+I am python , full stack web Development using AI
 <meta name="google-site-verification" content="4sWyYgm6xj7JBVJ2tgOatggLinz6YrN0_R91afOPZbo" />
 
 # 💫 About Me:
