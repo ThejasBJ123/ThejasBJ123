@@ -1,7 +1,6 @@
 ## Hi 👋 I'm Thejas BJ
 
-# 💫 About Me:
-I am a beginner python , Java 
+I am a beginner python , full stack web Development 
 <meta name="google-site-verification" content="4sWyYgm6xj7JBVJ2tgOatggLinz6YrN0_R91afOPZbo" />
 
 # 💫 About Me:
